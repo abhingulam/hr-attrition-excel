@@ -36,7 +36,7 @@ This dashboard transforms raw HR data into a clear, actionable workforce intelli
 
 | Detail | Info |
 |--------|------|
-| **Source** | [IBM HR Analytics Employee Attrition — Kaggle](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset) |
+| **Source** | IBM HR Analytics Employee Attrition Dataset (via YouTube tutorial resource) |
 | **Total Records** | 1,470 employees |
 | **Columns** | 35 features |
 | **Domain** | Human Resources Analytics |
